@@ -4,7 +4,7 @@ My solutions to LeetCode problems written in Swift :grimacing:
 
 ## LeetCode Profile - https://leetcode.com/SamarjeetDubey/
 For any queries or doubt, contact me on -  
-LinkedIn - https://www.linkedin.com/in/samarjeetdubey/
+LinkedIn - [https://www.linkedin.com/in/samarjeetdubey/](https://www.linkedin.com/in/samarjeetdubey-engineeringmanager-mobileappdeveloper/)
 
 
 # iOS Interview Preparation
